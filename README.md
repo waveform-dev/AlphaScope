@@ -110,4 +110,4 @@ Details about this project, which is licensed under the MIT License, may be foun
 
 **Note**: This repository is still being developed. The implementation is being constructed in public to get community feedback and confirm that the framework meets real-world requirements.
 
-Made with love by the [Waveform](https://your-waveform-link.com) crew
+Made with love by the [Waveform](https://waveform.finance) crew
